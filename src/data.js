@@ -1,8 +1,15 @@
-// esta es una función de ejemplo
-// puedes ver como agregamos la función a nuestro objeto global window
+// aquí van las funciones 
+window.data = { 
 
-const example = () => {
-  return 'example';
-};
-
-window.example = example;
+filterData: (data, condition) => {
+  let result = [];
+  for (let i = 0; i < data.length; i++){
+    for (let e = 0; e < data[i].tags.length; e++){
+      if(data[i].tags[e] === condition){
+        result.push(data[i])
+      }
+    }
+  }
+  return result;
+} 
+}
