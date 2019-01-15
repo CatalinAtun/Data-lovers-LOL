@@ -10,9 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "chai": "^4.2.0",
     "eslint": "^5.9.0",
     "eslint-plugin-jest": "^22.1.2",
     "htmlhint": "^0.10.1",
     "jest": "^23.6.0"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
   }
 }
