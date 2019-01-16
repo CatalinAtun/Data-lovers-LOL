@@ -1,0 +1,8 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.card-title, .card-subtitle{
+    text-align: center;
+}
