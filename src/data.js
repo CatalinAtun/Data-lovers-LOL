@@ -11,5 +11,33 @@ filterData: (data, condition) => {
     }
   }
   return result;
-} 
+},
+
+sortData: (data, sortBy, sortOrder) => {
+  const lolOrder = data
+  if(sortBy === "name" && sortOrder === "az"){
+    lolOrder.sort((a,b) => {
+      if(a.name > b.name) {
+        return 1;
+      }
+      if(a.name < b.name) {
+        return -1;
+      }
+      return 0;
+    })
+  }
+  if(sortBy === "name" && sortOrder === "za"){
+    lolOrder.sort((a,b) => {
+      if(a.name < b.name) {
+        return 1;
+      }
+      if(a.name > b.name) {
+        return -1;
+      }
+      return 0;
+    })
+  }
+
+}
+
 }
