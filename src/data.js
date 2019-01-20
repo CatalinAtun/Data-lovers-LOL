@@ -14,30 +14,30 @@ filterData: (data, condition) => {
 },
 
 sortData: (data, sortBy, sortOrder) => {
-  const lolOrder = data
-  if(sortBy === "name" && sortOrder === "az"){
-    lolOrder.sort((a,b) => {
-      if(a.name > b.name) {
+  const dataChamp = Object.values(window.LOL.data)
+  if (sortBy === "name" && sortOrder === "az"){
+    dataChamp.sort((prev, next)=> {
+      if (prev.name > next.name) {
         return 1;
       }
-      if(a.name < b.name) {
+      if (prev.name < next.name) {
         return -1;
       }
       return 0;
     })
   }
-  if(sortBy === "name" && sortOrder === "za"){
-    lolOrder.sort((a,b) => {
-      if(a.name < b.name) {
+  if (sortBy === "name" && sortOrder === "za"){
+    dataChamp.sort((prev, next)=> {
+      if (prev.name < next.name) {
         return 1;
       }
-      if(a.name > b.name) {
+      if (prev.name > next.name) {
         return -1;
       }
       return 0;
     })
   }
-
-}
+  return dataChamp
+ }
 
 }
