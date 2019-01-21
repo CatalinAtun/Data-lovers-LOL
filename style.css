@@ -29,11 +29,18 @@
 .card-title{
     margin: 0px;
     font-weight: bold;
-    background: -webkit-linear-gradient(left top, #c0853e, #f8d576);
-    background: linear-gradient(to bottom right,  #c0853e, #f8d576, #c0853e );
-    -webkit-background-clip: text;   
-    -webkit-text-fill-color: transparent; 
+    color: #f8d576;
 }
+
+.card-title1{
+    text-align: center;
+    color: #ebb458;
+    font-family: Frizquadrata;
+    margin: 5px;
+    font-weight: bold;
+    color: #f8d576;
+}
+
 
 .container{
     display: flex;
@@ -41,7 +48,14 @@
 }
 
 .title{
-    text-align: center 
+    text-align: center;
+}
+
+.title1{
+    text-align: center ;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
 }
 
 .mr-3{
@@ -70,6 +84,14 @@
 
 }
 
+.divButtonBack{
+    text-align:center;
+}
+
+.divButton2{
+    margin:0px auto;
+}
+
 .btn, #selectOrder{
     font-weight: bold;
     font-family: Frizquadrata;
@@ -77,6 +99,11 @@
     background-color: #1a1925;
     border: 1px solid #59371b;
     border-radius: 2px;
+}
+
+#buttonBack{
+    display: inline;
+    justify-content: center;
 }
 
 #selectOrder{
@@ -107,6 +134,15 @@
     background-color: #1a1925
 }
 
+.card1{
+    margin:10px auto;
+    border: 2px solid #ebb458;
+    background-color: #1a1925;
+    width: 1100px;
+    height: 1500px;
+    
+}
+
 #img{
     border: 6px solid #1a1925 
 }
@@ -114,5 +150,45 @@
 #imgSplash{
     margin: 0px auto;
 }
+
+.card-img-top{
+    border: 25px solid #1a1925 
+}
+
+.card-text{
+    color: gainsboro;
+    font-size: 20px;
+    font-family: Frizquadrata;
+}
+
+.card-title2{
+    text-decoration: underline;
+    color: gainsboro;
+}
+
+.info{
+    font-family: Frizquadrata;
+    color: gainsboro;
+    font-size: 20px;
+}
+
+.list-group-item{
+    background-color: #1a1925;
+    color: gainsboro;
+    width: 200px;
+}
+
+.container3, .container4, .container5, .container6{
+    float:left;
+    margin: 25px;
+    font-family: Frizquadrata;
+}
+
+
+
+
+
+
+
 
 
