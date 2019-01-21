@@ -1,8 +1,118 @@
+@font-face {
+    font-family: Frizquadrata;
+    src: url(Frizquadrata.otf);
+}
+
 #root {
     display: flex;
     justify-content: center;
 }
 
+.img{
+    width: 35px;
+    height: 35px;
+
+}
 .card-title, .card-subtitle{
     text-align: center;
+    color: #ebb458;
+    font-family: Frizquadrata;
 }
+
+.card-subtitle1{
+    text-align: center;
+    color: #ebb458;
+    font-family: Frizquadrata;
+    margin: 1px;
+}
+
+.card-title{
+    margin: 0px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(left top, #c0853e, #f8d576);
+    background: linear-gradient(to bottom right,  #c0853e, #f8d576, #c0853e );
+    -webkit-background-clip: text;   
+    -webkit-text-fill-color: transparent; 
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align: center 
+}
+
+.mr-3{
+    width: 30%;
+    height: 30%;
+} 
+
+.mb-0{
+    color: black
+}
+
+.list-group{
+    color: black;
+}
+
+.btn1{
+    font-size: 15px;
+    width: 110px;
+    height: 40px;
+    background: #163342;
+    border: 2px solid #0ac2b9;
+    border-radius: 2px;
+    font-family: Frizquadrata;
+    font-weight: bold;
+    color: solid #90d9db;
+
+}
+
+.btn, #selectOrder{
+    font-weight: bold;
+    font-family: Frizquadrata;
+    color: #ebb458;
+    background-color: #1a1925;
+    border: 1px solid #59371b;
+    border-radius: 2px;
+}
+
+#selectOrder{
+    height: 38px;
+    width: 150px;
+    margin: 10px;
+}
+
+#body{
+    background-color: black;
+}
+
+.btn2{
+    font-weight: bold;
+    font-family: Frizquadrata;
+    font-size: 15px;
+    color: #ebb458;
+    background-color: #1a1925;
+    border: none;
+    border-radius: none;
+    margin:0px auto;
+    text-decoration: underline;
+}
+
+.card{
+    margin:10px auto;
+    border: 2px solid #ebb458;
+    background-color: #1a1925
+}
+
+#img{
+    border: 6px solid #1a1925 
+}
+
+#imgSplash{
+    margin: 0px auto;
+}
+
+
