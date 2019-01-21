@@ -6,49 +6,33 @@
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
       <link rel="stylesheet" href="style.css" />
    </head>
-   <body>
-      <div>
-         <div>
-            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-               <div class="carousel-inner">
-                  <div class="carousel-item active">
-                     <img src="lolcarrusel1.jpg" class="d-block w-100" alt="1">
-                  </div>
-                  <div class="carousel-item">
-                     <img src="lolcarrusel2.png" class="d-block w-100" alt="2">
-                  </div>
-                  <div class="carousel-item">
-                     <img src="lolcarrusel3.jpg" class="d-block w-100" alt="3">
-                  </div>
-               </div>
-               <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-               <span class="sr-only">Previous</span>
-               </a>
-               <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-               <span class="carousel-control-next-icon" aria-hidden="true"></span>
-               <span class="sr-only">Next</span>
-               </a>
-            </div>
-         </div>
-         <div>
-            <div class="d-flex p-2 bd-highlight">
+   <body id="body">
+      <main>
+            <nav class="navbar navbar-dark bg-dark">
+                  <img class="img" src="lol.png" alt="lol">
+                  <button type="button" class="btn1 btn-outline-info" onclick="location.href='https://las.leagueoflegends.com/es/'">LOL official</button>
+                </nav>
+         <img src="lolimage.png" alt="lol">
+      </main>
+         <div class="container">
+            <div class="navbar d-flex p-2 bd-highlight">
                <div class="container">
-                  <select name="select" class="col s12 m6">
-                     <option value="" selected>Ordenar por</option>
+                     <button id="fighter" class="buttonOrder btn btn-outline-dark">Fighter</button>
+                     <button id="tank" class="buttonOrder btn btn-outline-dark">Tank</button>
+                     <button id="mage" class="buttonOrder btn btn-outline-dark">Mage</button>
+                     <button id="assassin" class="buttonOrder btn btn-outline-dark">Assassin</button>
+                     <button id="support" class="buttonOrder btn btn-outline-dark">Support</button>
+                     <button id="marksman" class="buttonOrder btn btn-outline-dark">Marksman</button>
+                  <div> 
+                     <select id="selectOrder" name="select" class="col s12 m6">
+                     <option value="" selected>Order by</option>
                      <option value="az">A - Z</option>
                      <option value="za">Z - A</option>
                   </select>
-                  <button class="btn btn-outline-dark">Fighter</button>
-                  <button class="btn btn-outline-dark">Tank</button>
-                  <button class="btn btn-outline-dark">Mage</button>
-                  <button class="btn btn-outline-dark">Assassin</button>
-                  <button class="btn btn-outline-dark">Support</button>
-                  <button class="btn btn-outline-dark">Marksman</button>
+                  </div>
                </div>
             </div>
          </div>
-      </div>
       <div>
          <div id="root" class="row"></div>
       </div>

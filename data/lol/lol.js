@@ -8,7 +8,7 @@ const LOL = {
       id: "Aatrox",
       key: "266",
       name: "Aatrox",
-      title: "the Darkin Blade",
+      title: "The Darkin Blade",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Aatrox.png",
       splash:
@@ -60,7 +60,7 @@ const LOL = {
       id: "Ahri",
       key: "103",
       name: "Ahri",
-      title: "the Nine-Tailed Fox",
+      title: "The Nine-Tailed Fox",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ahri.png",
       splash:
@@ -112,7 +112,7 @@ const LOL = {
       id: "Akali",
       key: "84",
       name: "Akali",
-      title: "the Fist of Shadow",
+      title: "The Fist of Shadow",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Akali.png",
       splash:
@@ -164,7 +164,7 @@ const LOL = {
       id: "Alistar",
       key: "12",
       name: "Alistar",
-      title: "the Minotaur",
+      title: "The Minotaur",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Alistar.png",
       splash:
@@ -216,7 +216,7 @@ const LOL = {
       id: "Amumu",
       key: "32",
       name: "Amumu",
-      title: "the Sad Mummy",
+      title: "The Sad Mummy",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Amumu.png",
       splash:
@@ -268,7 +268,7 @@ const LOL = {
       id: "Anivia",
       key: "34",
       name: "Anivia",
-      title: "the Cryophoenix",
+      title: "The Cryophoenix",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Anivia.png",
       splash:
@@ -320,7 +320,7 @@ const LOL = {
       id: "Annie",
       key: "1",
       name: "Annie",
-      title: "the Dark Child",
+      title: "The Dark Child",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Annie.png",
       splash:
@@ -372,7 +372,7 @@ const LOL = {
       id: "Ashe",
       key: "22",
       name: "Ashe",
-      title: "the Frost Archer",
+      title: "The Frost Archer",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ashe.png",
       splash:
@@ -476,7 +476,7 @@ const LOL = {
       id: "Azir",
       key: "268",
       name: "Azir",
-      title: "the Emperor of the Sands",
+      title: "The Emperor of the Sands",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Azir.png",
       splash:
@@ -528,7 +528,7 @@ const LOL = {
       id: "Bard",
       key: "432",
       name: "Bard",
-      title: "the Wandering Caretaker",
+      title: "The Wandering Caretaker",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Bard.png",
       splash:
@@ -580,7 +580,7 @@ const LOL = {
       id: "Blitzcrank",
       key: "53",
       name: "Blitzcrank",
-      title: "the Great Steam Golem",
+      title: "The Great Steam Golem",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Blitzcrank.png",
       splash:
@@ -632,7 +632,7 @@ const LOL = {
       id: "Brand",
       key: "63",
       name: "Brand",
-      title: "the Burning Vengeance",
+      title: "The Burning Vengeance",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Brand.png",
       splash:
@@ -684,7 +684,7 @@ const LOL = {
       id: "Braum",
       key: "201",
       name: "Braum",
-      title: "the Heart of the Freljord",
+      title: "The Heart of the Freljord",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Braum.png",
       splash:
@@ -736,7 +736,7 @@ const LOL = {
       id: "Caitlyn",
       key: "51",
       name: "Caitlyn",
-      title: "the Sheriff of Piltover",
+      title: "The Sheriff of Piltover",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Caitlyn.png",
       splash:
@@ -788,7 +788,7 @@ const LOL = {
       id: "Camille",
       key: "164",
       name: "Camille",
-      title: "the Steel Shadow",
+      title: "The Steel Shadow",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Camille.png",
       splash:
@@ -840,7 +840,7 @@ const LOL = {
       id: "Cassiopeia",
       key: "69",
       name: "Cassiopeia",
-      title: "the Serpent's Embrace",
+      title: "The Serpent's Embrace",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Cassiopeia.png",
       splash:
@@ -892,7 +892,7 @@ const LOL = {
       id: "Chogath",
       key: "31",
       name: "Cho'Gath",
-      title: "the Terror of the Void",
+      title: "The Terror of the Void",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Chogath.png",
       splash:
@@ -944,7 +944,7 @@ const LOL = {
       id: "Corki",
       key: "42",
       name: "Corki",
-      title: "the Daring Bombardier",
+      title: "The Daring Bombardier",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Corki.png",
       splash:
@@ -996,7 +996,7 @@ const LOL = {
       id: "Darius",
       key: "122",
       name: "Darius",
-      title: "the Hand of Noxus",
+      title: "The Hand of Noxus",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Darius.png",
       splash:
@@ -1100,7 +1100,7 @@ const LOL = {
       id: "Draven",
       key: "119",
       name: "Draven",
-      title: "the Glorious Executioner",
+      title: "The Glorious Executioner",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Draven.png",
       splash:
@@ -1152,7 +1152,7 @@ const LOL = {
       id: "DrMundo",
       key: "36",
       name: "Dr. Mundo",
-      title: "the Madman of Zaun",
+      title: "The Madman of Zaun",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/DrMundo.png",
       splash:
@@ -1204,7 +1204,7 @@ const LOL = {
       id: "Ekko",
       key: "245",
       name: "Ekko",
-      title: "the Boy Who Shattered Time",
+      title: "The Boy Who Shattered Time",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ekko.png",
       splash:
@@ -1256,7 +1256,7 @@ const LOL = {
       id: "Elise",
       key: "60",
       name: "Elise",
-      title: "the Spider Queen",
+      title: "The Spider Queen",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Elise.png",
       splash:
@@ -1308,7 +1308,7 @@ const LOL = {
       id: "Evelynn",
       key: "28",
       name: "Evelynn",
-      title: "the Widowmaker",
+      title: "The Widowmaker",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
       blurb:
@@ -1358,7 +1358,7 @@ const LOL = {
       id: "Ezreal",
       key: "81",
       name: "Ezreal",
-      title: "the Prodigal Explorer",
+      title: "The Prodigal Explorer",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ezreal.png",
       splash:
@@ -1410,7 +1410,7 @@ const LOL = {
       id: "FiddleSticks",
       key: "9",
       name: "Fiddlesticks",
-      title: "the Harbinger of Doom",
+      title: "The Harbinger of Doom",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/FiddleSticks.png",
       splash:
@@ -1462,7 +1462,7 @@ const LOL = {
       id: "Fiora",
       key: "114",
       name: "Fiora",
-      title: "the Grand Duelist",
+      title: "The Grand Duelist",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Fiora.png",
       splash:
@@ -1514,7 +1514,7 @@ const LOL = {
       id: "Fizz",
       key: "105",
       name: "Fizz",
-      title: "the Tidal Trickster",
+      title: "The Tidal Trickster",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Fizz.png",
       splash:
@@ -1566,7 +1566,7 @@ const LOL = {
       id: "Galio",
       key: "3",
       name: "Galio",
-      title: "the Sentinel's Sorrow",
+      title: "The Sentinel's Sorrow",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Galio.png",
       splash:
@@ -1618,7 +1618,7 @@ const LOL = {
       id: "Gangplank",
       key: "41",
       name: "Gangplank",
-      title: "the Saltwater Scourge",
+      title: "The Saltwater Scourge",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Gangplank.png",
       splash:
@@ -1722,7 +1722,7 @@ const LOL = {
       id: "Gnar",
       key: "150",
       name: "Gnar",
-      title: "the Missing Link",
+      title: "The Missing Link",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Gnar.png",
       splash:
@@ -1774,7 +1774,7 @@ const LOL = {
       id: "Gragas",
       key: "79",
       name: "Gragas",
-      title: "the Rabble Rouser",
+      title: "The Rabble Rouser",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Gragas.png",
       splash:
@@ -1826,7 +1826,7 @@ const LOL = {
       id: "Graves",
       key: "104",
       name: "Graves",
-      title: "the Outlaw",
+      title: "The Outlaw",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Graves.png",
       splash:
@@ -1878,7 +1878,7 @@ const LOL = {
       id: "Hecarim",
       key: "120",
       name: "Hecarim",
-      title: "the Shadow of War",
+      title: "The Shadow of War",
       champkey: "Hecarim",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Hecarim.png",
@@ -1931,7 +1931,7 @@ const LOL = {
       id: "Heimerdinger",
       key: "74",
       name: "Heimerdinger",
-      title: "the Revered Inventor",
+      title: "The Revered Inventor",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Heimerdinger.png",
       splash:
@@ -1983,7 +1983,7 @@ const LOL = {
       id: "Illaoi",
       key: "420",
       name: "Illaoi",
-      title: "the Kraken Priestess",
+      title: "The Kraken Priestess",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Illaoi.png",
       splash:
@@ -2035,7 +2035,7 @@ const LOL = {
       id: "Irelia",
       key: "39",
       name: "Irelia",
-      title: "the Will of the Blades",
+      title: "The Will of the Blades",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Irelia.png",
       splash:
@@ -2087,7 +2087,7 @@ const LOL = {
       id: "Ivern",
       key: "427",
       name: "Ivern",
-      title: "the Green Father",
+      title: "The Green Father",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ivern.png",
       splash:
@@ -2139,7 +2139,7 @@ const LOL = {
       id: "Janna",
       key: "40",
       name: "Janna",
-      title: "the Storm's Fury",
+      title: "The Storm's Fury",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Janna.png",
       splash:
@@ -2191,7 +2191,7 @@ const LOL = {
       id: "JarvanIV",
       key: "59",
       name: "Jarvan IV",
-      title: "the Exemplar of Demacia",
+      title: "The Exemplar of Demacia",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/JarvanIV.png",
       splash:
@@ -2295,7 +2295,7 @@ const LOL = {
       id: "Jayce",
       key: "126",
       name: "Jayce",
-      title: "the Defender of Tomorrow",
+      title: "The Defender of Tomorrow",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Jayce.png",
       splash:
@@ -2347,7 +2347,7 @@ const LOL = {
       id: "Jhin",
       key: "202",
       name: "Jhin",
-      title: "the Virtuoso",
+      title: "The Virtuoso",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Jhin.png",
       splash:
@@ -2399,7 +2399,7 @@ const LOL = {
       id: "Jinx",
       key: "222",
       name: "Jinx",
-      title: "the Loose Cannon",
+      title: "The Loose Cannon",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Jinx.png",
       splash:
@@ -2451,7 +2451,7 @@ const LOL = {
       id: "Kalista",
       key: "429",
       name: "Kalista",
-      title: "the Spear of Vengeance",
+      title: "The Spear of Vengeance",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Kalista.png",
       splash:
@@ -2503,7 +2503,7 @@ const LOL = {
       id: "Karma",
       key: "43",
       name: "Karma",
-      title: "the Enlightened One",
+      title: "The Enlightened One",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Karma.png",
       splash:
@@ -2555,7 +2555,7 @@ const LOL = {
       id: "Karthus",
       key: "30",
       name: "Karthus",
-      title: "the Deathsinger",
+      title: "The Deathsinger",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Karthus.png",
       splash:
@@ -2607,7 +2607,7 @@ const LOL = {
       id: "Kassadin",
       key: "38",
       name: "Kassadin",
-      title: "the Void Walker",
+      title: "The Void Walker",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Kassadin.png",
       splash:
@@ -2659,7 +2659,7 @@ const LOL = {
       id: "Katarina",
       key: "55",
       name: "Katarina",
-      title: "the Sinister Blade",
+      title: "The Sinister Blade",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Katarina.png",
       splash:
@@ -2763,7 +2763,7 @@ const LOL = {
       id: "Kennen",
       key: "85",
       name: "Kennen",
-      title: "the Heart of the Tempest",
+      title: "The Heart of the Tempest",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Kennen.png",
       splash:
@@ -2815,7 +2815,7 @@ const LOL = {
       id: "Khazix",
       key: "121",
       name: "Kha'Zix",
-      title: "the Voidreaver",
+      title: "The Voidreaver",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Khazix.png",
       splash:
@@ -2919,7 +2919,7 @@ const LOL = {
       id: "Kled",
       key: "240",
       name: "Kled",
-      title: "the Cantankerous Cavalier",
+      title: "The Cantankerous Cavalier",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Kled.png",
       splash:
@@ -2971,7 +2971,7 @@ const LOL = {
       id: "KogMaw",
       key: "96",
       name: "Kog'Maw",
-      title: "the Mouth of the Abyss",
+      title: "The Mouth of the Abyss",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/KogMaw.png",
       splash:
@@ -3023,7 +3023,7 @@ const LOL = {
       id: "Leblanc",
       key: "7",
       name: "LeBlanc",
-      title: "the Deceiver",
+      title: "The Deceiver",
       "name:":
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Leblanc.png",
       splash:
@@ -3075,7 +3075,7 @@ const LOL = {
       id: "LeeSin",
       key: "64",
       name: "Lee Sin",
-      title: "the Blind Monk",
+      title: "The Blind Monk",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/LeeSin.png",
       splash:
@@ -3127,7 +3127,7 @@ const LOL = {
       id: "Leona",
       key: "89",
       name: "Leona",
-      title: "the Radiant Dawn",
+      title: "The Radiant Dawn",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Leona.png",
       splash:
@@ -3179,7 +3179,7 @@ const LOL = {
       id: "Lissandra",
       key: "127",
       name: "Lissandra",
-      title: "the Ice Witch",
+      title: "The Ice Witch",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Lissandra.png",
       splash:
@@ -3231,7 +3231,7 @@ const LOL = {
       id: "Lucian",
       key: "236",
       name: "Lucian",
-      title: "the Purifier",
+      title: "The Purifier",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Lucian.png",
       splash:
@@ -3283,7 +3283,7 @@ const LOL = {
       id: "Lulu",
       key: "117",
       name: "Lulu",
-      title: "the Fae Sorceress",
+      title: "The Fae Sorceress",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Lulu.png",
       splash:
@@ -3335,7 +3335,7 @@ const LOL = {
       id: "Lux",
       key: "99",
       name: "Lux",
-      title: "the Lady of Luminosity",
+      title: "The Lady of Luminosity",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Lux.png",
       splash:
@@ -3439,7 +3439,7 @@ const LOL = {
       id: "Malzahar",
       key: "90",
       name: "Malzahar",
-      title: "the Prophet of the Void",
+      title: "The Prophet of the Void",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Malzahar.png",
       splash:
@@ -3491,7 +3491,7 @@ const LOL = {
       id: "Maokai",
       key: "57",
       name: "Maokai",
-      title: "the Twisted Treant",
+      title: "The Twisted Treant",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Maokai.png",
       splash:
@@ -3543,7 +3543,7 @@ const LOL = {
       id: "MasterYi",
       key: "11",
       name: "Master Yi",
-      title: "the Wuju Bladesman",
+      title: "The Wuju Bladesman",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/MasterYi.png",
       splash:
@@ -3595,7 +3595,7 @@ const LOL = {
       id: "MissFortune",
       key: "21",
       name: "Miss Fortune",
-      title: "the Bounty Hunter",
+      title: "The Bounty Hunter",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/MissFortune.png",
       splash:
@@ -3647,7 +3647,7 @@ const LOL = {
       id: "MonkeyKing",
       key: "62",
       name: "Wukong",
-      title: "the Monkey King",
+      title: "The Monkey King",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/MonkeyKing.png",
       splash:
@@ -3699,7 +3699,7 @@ const LOL = {
       id: "Mordekaiser",
       key: "82",
       name: "Mordekaiser",
-      title: "the Iron Revenant",
+      title: "The Iron Revenant",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Mordekaiser.png",
       splash:
@@ -3803,7 +3803,7 @@ const LOL = {
       id: "Nami",
       key: "267",
       name: "Nami",
-      title: "the Tidecaller",
+      title: "The Tidecaller",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Nami.png",
       splash:
@@ -3855,7 +3855,7 @@ const LOL = {
       id: "Nasus",
       key: "75",
       name: "Nasus",
-      title: "the Curator of the Sands",
+      title: "The Curator of the Sands",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Nasus.png",
       splash:
@@ -3907,7 +3907,7 @@ const LOL = {
       id: "Nautilus",
       key: "111",
       name: "Nautilus",
-      title: "the Titan of the Depths",
+      title: "The Titan of the Depths",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Nautilus.png",
       splash:
@@ -3959,7 +3959,7 @@ const LOL = {
       id: "Nidalee",
       key: "76",
       name: "Nidalee",
-      title: "the Bestial Huntress",
+      title: "The Bestial Huntress",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Nidalee.png",
       splash:
@@ -4011,7 +4011,7 @@ const LOL = {
       id: "Nocturne",
       key: "56",
       name: "Nocturne",
-      title: "the Eternal Nightmare",
+      title: "The Eternal Nightmare",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Nocturne.png",
       splash:
@@ -4063,7 +4063,7 @@ const LOL = {
       id: "Nunu",
       key: "20",
       name: "Nunu",
-      title: "the Yeti Rider",
+      title: "The Yeti Rider",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Nunu.png",
       splash:
@@ -4115,7 +4115,7 @@ const LOL = {
       id: "Olaf",
       key: "2",
       name: "Olaf",
-      title: "the Berserker",
+      title: "The Berserker",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Olaf.png",
       splash:
@@ -4167,7 +4167,7 @@ const LOL = {
       id: "Orianna",
       key: "61",
       name: "Orianna",
-      title: "the Lady of Clockwork",
+      title: "The Lady of Clockwork",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Orianna.png",
       splash:
@@ -4219,7 +4219,7 @@ const LOL = {
       id: "Pantheon",
       key: "80",
       name: "Pantheon",
-      title: "the Artisan of War",
+      title: "The Artisan of War",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Pantheon.png",
       splash:
@@ -4375,7 +4375,7 @@ const LOL = {
       id: "Rammus",
       key: "33",
       name: "Rammus",
-      title: "the Armordillo",
+      title: "The Armordillo",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Rammus.png",
       splash:
@@ -4427,7 +4427,7 @@ const LOL = {
       id: "RekSai",
       key: "421",
       name: "Rek'Sai",
-      title: "the Void Burrower",
+      title: "The Void Burrower",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/RekSai.png",
       splash:
@@ -4479,7 +4479,7 @@ const LOL = {
       id: "Renekton",
       key: "58",
       name: "Renekton",
-      title: "the Butcher of the Sands",
+      title: "The Butcher of the Sands",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Renekton.png",
       splash:
@@ -4531,7 +4531,7 @@ const LOL = {
       id: "Rengar",
       key: "107",
       name: "Rengar",
-      title: "the Pridestalker",
+      title: "The Pridestalker",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Rengar.png",
       splash:
@@ -4583,7 +4583,7 @@ const LOL = {
       id: "Riven",
       key: "92",
       name: "Riven",
-      title: "the Exile",
+      title: "The Exile",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Riven.png",
       splash:
@@ -4635,7 +4635,7 @@ const LOL = {
       id: "Rumble",
       key: "68",
       name: "Rumble",
-      title: "the Mechanized Menace",
+      title: "The Mechanized Menace",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Rumble.png",
       splash:
@@ -4687,7 +4687,7 @@ const LOL = {
       id: "Ryze",
       key: "13",
       name: "Ryze",
-      title: "the Rune Mage",
+      title: "The Rune Mage",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ryze.png",
       splash:
@@ -4739,7 +4739,7 @@ const LOL = {
       id: "Sejuani",
       key: "113",
       name: "Sejuani",
-      title: "the Winter's Wrath",
+      title: "The Winter's Wrath",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Sejuani.png",
       splash:
@@ -4791,7 +4791,7 @@ const LOL = {
       id: "Shaco",
       key: "35",
       name: "Shaco",
-      title: "the Demon Jester",
+      title: "The Demon Jester",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Shaco.png",
       splash:
@@ -4843,7 +4843,7 @@ const LOL = {
       id: "Shen",
       key: "98",
       name: "Shen",
-      title: "the Eye of Twilight",
+      title: "The Eye of Twilight",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Shen.png",
       splash:
@@ -4895,7 +4895,7 @@ const LOL = {
       id: "Shyvana",
       key: "102",
       name: "Shyvana",
-      title: "the Half-Dragon",
+      title: "The Half-Dragon",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Shyvana.png",
       splash:
@@ -4947,7 +4947,7 @@ const LOL = {
       id: "Singed",
       key: "27",
       name: "Singed",
-      title: "the Mad Chemist",
+      title: "The Mad Chemist",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Singed.png",
       splash:
@@ -5051,7 +5051,7 @@ const LOL = {
       id: "Sivir",
       key: "15",
       name: "Sivir",
-      title: "the Battle Mistress",
+      title: "The Battle Mistress",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Sivir.png",
       splash:
@@ -5103,7 +5103,7 @@ const LOL = {
       id: "Skarner",
       key: "72",
       name: "Skarner",
-      title: "the Crystal Vanguard",
+      title: "The Crystal Vanguard",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Skarner.png",
       splash:
@@ -5207,7 +5207,7 @@ const LOL = {
       id: "Soraka",
       key: "16",
       name: "Soraka",
-      title: "the Starchild",
+      title: "The Starchild",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Soraka.png",
       splash:
@@ -5259,7 +5259,7 @@ const LOL = {
       id: "Swain",
       key: "50",
       name: "Swain",
-      title: "the Master Tactician",
+      title: "The Master Tactician",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Swain.png",
       splash:
@@ -5311,7 +5311,7 @@ const LOL = {
       id: "Syndra",
       key: "134",
       name: "Syndra",
-      title: "the Dark Sovereign",
+      title: "The Dark Sovereign",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Syndra.png",
       splash:
@@ -5363,7 +5363,7 @@ const LOL = {
       id: "TahmKench",
       key: "223",
       name: "Tahm Kench",
-      title: "the River King",
+      title: "The River King",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/TahmKench.png",
       splash:
@@ -5415,7 +5415,7 @@ const LOL = {
       id: "Taliyah",
       key: "163",
       name: "Taliyah",
-      title: "the Stoneweaver",
+      title: "The Stoneweaver",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Taliyah.png",
       splash:
@@ -5467,7 +5467,7 @@ const LOL = {
       id: "Talon",
       key: "91",
       name: "Talon",
-      title: "the Blade's Shadow",
+      title: "The Blade's Shadow",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Talon.png",
       splash:
@@ -5519,7 +5519,7 @@ const LOL = {
       id: "Taric",
       key: "44",
       name: "Taric",
-      title: "the Shield of Valoran",
+      title: "The Shield of Valoran",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Taric.png",
       splash:
@@ -5571,7 +5571,7 @@ const LOL = {
       id: "Teemo",
       key: "17",
       name: "Teemo",
-      title: "the Swift Scout",
+      title: "The Swift Scout",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Teemo.png",
       splash:
@@ -5623,7 +5623,7 @@ const LOL = {
       id: "Thresh",
       key: "412",
       name: "Thresh",
-      title: "the Chain Warden",
+      title: "The Chain Warden",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Thresh.png",
       splash:
@@ -5675,7 +5675,7 @@ const LOL = {
       id: "Tristana",
       key: "18",
       name: "Tristana",
-      title: "the Yordle Gunner",
+      title: "The Yordle Gunner",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Tristana.png",
       splash:
@@ -5727,7 +5727,7 @@ const LOL = {
       id: "Trundle",
       key: "48",
       name: "Trundle",
-      title: "the Troll King",
+      title: "The Troll King",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Trundle.png",
       splash:
@@ -5779,7 +5779,7 @@ const LOL = {
       id: "Tryndamere",
       key: "23",
       name: "Tryndamere",
-      title: "the Barbarian King",
+      title: "The Barbarian King",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Tryndamere.png",
       splash:
@@ -5831,7 +5831,7 @@ const LOL = {
       id: "TwistedFate",
       key: "4",
       name: "Twisted Fate",
-      title: "the Card Master",
+      title: "The Card Master",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Maokai.png",
       splash:
@@ -5883,7 +5883,7 @@ const LOL = {
       id: "Twitch",
       key: "29",
       name: "Twitch",
-      title: "the Plague Rat",
+      title: "The Plague Rat",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Twitch.png",
       splash:
@@ -5935,7 +5935,7 @@ const LOL = {
       id: "Udyr",
       key: "77",
       name: "Udyr",
-      title: "the Spirit Walker",
+      title: "The Spirit Walker",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Udyr.png",
       splash:
@@ -5987,7 +5987,7 @@ const LOL = {
       id: "Urgot",
       key: "6",
       name: "Urgot",
-      title: "the Headsman's Pride",
+      title: "The Headsman's Pride",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Urgot.png",
       splash:
@@ -6039,7 +6039,7 @@ const LOL = {
       id: "Varus",
       key: "110",
       name: "Varus",
-      title: "the Arrow of Retribution",
+      title: "The Arrow of Retribution",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Varus.png",
       splash:
@@ -6091,7 +6091,7 @@ const LOL = {
       id: "Vayne",
       key: "67",
       name: "Vayne",
-      title: "the Night Hunter",
+      title: "The Night Hunter",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Vayne.png",
       splash:
@@ -6143,7 +6143,7 @@ const LOL = {
       id: "Veigar",
       key: "45",
       name: "Veigar",
-      title: "the Tiny Master of Evil",
+      title: "The Tiny Master of Evil",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Veigar.png",
       splash:
@@ -6195,7 +6195,7 @@ const LOL = {
       id: "Velkoz",
       key: "161",
       name: "Vel'Koz",
-      title: "the Eye of the Void",
+      title: "The Eye of the Void",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Velkoz.png",
       splash:
@@ -6247,7 +6247,7 @@ const LOL = {
       id: "Vi",
       key: "254",
       name: "Vi",
-      title: "the Piltover Enforcer",
+      title: "The Piltover Enforcer",
       img: "https://www.masterypoints.com/assets/img/lol/champion_icons/Vi.png",
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
@@ -6298,7 +6298,7 @@ const LOL = {
       id: "Viktor",
       key: "112",
       name: "Viktor",
-      title: "the Machine Herald",
+      title: "The Machine Herald",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Viktor.png",
       splash:
@@ -6350,7 +6350,7 @@ const LOL = {
       id: "Vladimir",
       key: "8",
       name: "Vladimir",
-      title: "the Crimson Reaper",
+      title: "The Crimson Reaper",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Vladimir.png",
       splash:
@@ -6402,7 +6402,7 @@ const LOL = {
       id: "Volibear",
       key: "106",
       name: "Volibear",
-      title: "the Thunder's Roar",
+      title: "The Thunder's Roar",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Volibear.png",
       splash:
@@ -6454,7 +6454,7 @@ const LOL = {
       id: "Warwick",
       key: "19",
       name: "Warwick",
-      title: "the Blood Hunter",
+      title: "The Blood Hunter",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Warwick.png",
       splash:
@@ -6506,7 +6506,7 @@ const LOL = {
       id: "Xerath",
       key: "101",
       name: "Xerath",
-      title: "the Magus Ascendant",
+      title: "The Magus Ascendant",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Xerath.png",
       splash:
@@ -6558,7 +6558,7 @@ const LOL = {
       id: "XinZhao",
       key: "5",
       name: "Xin Zhao",
-      title: "the Seneschal of Demacia",
+      title: "The Seneschal of Demacia",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/XinZhao.png",
       splash:
@@ -6610,7 +6610,7 @@ const LOL = {
       id: "Yasuo",
       key: "157",
       name: "Yasuo",
-      title: "the Unforgiven",
+      title: "The Unforgiven",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Yasuo.png",
       splash:
@@ -6714,7 +6714,7 @@ const LOL = {
       id: "Zac",
       key: "154",
       name: "Zac",
-      title: "the Secret Weapon",
+      title: "The Secret Weapon",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Zac.png",
       splash:
@@ -6766,7 +6766,7 @@ const LOL = {
       id: "Zed",
       key: "238",
       name: "Zed",
-      title: "the Master of Shadows",
+      title: "The Master of Shadows",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Zed.png",
       splash:
@@ -6818,7 +6818,7 @@ const LOL = {
       id: "Ziggs",
       key: "115",
       name: "Ziggs",
-      title: "the Hexplosives Expert",
+      title: "The Hexplosives Expert",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Ziggs.png",
       splash:
@@ -6870,7 +6870,7 @@ const LOL = {
       id: "Zilean",
       key: "26",
       name: "Zilean",
-      title: "the Chronokeeper",
+      title: "The Chronokeeper",
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Zilean.png",
       splash:
