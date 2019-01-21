@@ -4,16 +4,17 @@ const dataLOL = Object.values(window.LOL.data);
 
 
 // imprime las cartas en pantalla principal
-function lolCards(){  
+function lolCards(data){  
+    document.getElementById("root").innerHTML= "";
     let all = [];
-    for(let i = 0; i < dataLOL.length; i++){
+    for(let i = 0; i < data.length; i++){
         all.push(`<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
         <div class="card" style="width: 18rem;">
-        <img src="${dataLOL[i].splash}" id="img" class="img-fluid" alt="splashChampion">
+        <img src="${data[i].splash}" id="img" class="img-fluid" alt="splashChampion">
         <div class="card-body">
-        <h3 class="card-title">${dataLOL[i].name}</h3>
-        <p class="card-subtitle">${dataLOL[i].title}</p>
-        <p class="card-subtitle1">${dataLOL[i].tags.join(" ")}</p>
+        <h3 class="card-title">${data[i].name}</h3>
+        <p class="card-subtitle">${data[i].title}</p>
+        <p class="card-subtitle1">${data[i].tags.join(" ")}</p>
         </div>
         <button type="button" class="buttonChamp btn2 btn-outline-dark">More information</button>
         </div>
@@ -21,22 +22,37 @@ function lolCards(){
     }
     return all;
 }
-document.getElementById("root").innerHTML = lolCards(); 
+document.getElementById("root").innerHTML = lolCards(dataLOL); 
 
+document.getElementById("fighter").addEventListener('click', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.filterData(dataLOL, "Fighter"));
+    championInfo(window.data.filterData(dataLOL, "Fighter"));
+})
+document.getElementById("tank").addEventListener('click', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.filterData(dataLOL, "Tank"));
+    championInfo(window.data.filterData(dataLOL, "Tank"));
+})
+document.getElementById("mage").addEventListener('click', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.filterData(dataLOL, "Mage"));
+    championInfo(window.data.filterData(dataLOL, "Mage"));
+})
+document.getElementById("assassin").addEventListener('click', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.filterData(dataLOL, "Assassin"));
+    championInfo(window.data.filterData(dataLOL, "Assassin"));
+})
+document.getElementById("support").addEventListener('click', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.filterData(dataLOL, "Support"));
+    championInfo(window.data.filterData(dataLOL, "Support"));
+})
+document.getElementById("marksman").addEventListener('click', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.filterData(dataLOL, "Marksman"));
+    championInfo(window.data.filterData(dataLOL, "Marksman"));
+})
 
-// le da funcionalidad a los botones de ordenar 
-const buttons_order= document.getElementsByClassName("buttonOrder");
-function filterButtons(){
-    for(let i = 0; i < buttons_order.length; i++){
-        buttons_order[i].addEventListener('click', () => {
-            rootDiv.innerHTML = "Aca deberían estar los pokemones filtrados";
-        })
-    }
-}
-filterButtons(); 
-
-//let tagsTypes = ["Fighter", "Tank", "Mage", "Assassin", "Support", "Marksman"];
-
+document.getElementById("selectOrder").addEventListener('change', () => {
+    document.getElementById("root").innerHTML = lolCards(window.data.sortData(dataLOL, "name", document.getElementById("selectOrder").value));
+    championInfo(window.data.sortData(dataLOL, "name", document.getElementById("selectOrder").value));
+})
 
 const rootDiv = document.getElementById("root");
 const button_info = document.getElementsByClassName("buttonChamp");
