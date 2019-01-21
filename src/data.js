@@ -14,7 +14,7 @@ filterData: (data, condition) => {
 },
 
 sortData: (data, sortBy, sortOrder) => {
-  const dataChamp = Object.values(window.LOL.data)
+  let dataChamp = data;
   if (sortBy === "name" && sortOrder === "az"){
     dataChamp.sort((prev, next)=> {
       if (prev.name > next.name) {
